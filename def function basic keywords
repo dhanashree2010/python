@@ -1,0 +1,24 @@
+Input:-
+def myfunction():
+ print("Hello World")
+myfunction()
+Input:- def
+greet(name):
+ print("Hello, " + name + ". Good
+morning!") greet('abc')
+Input:-
+def subtractNum():
+print(34 - 4)
+subtractNum()
+Input:-
+def my_func():
+x = 10
+print("Value inside function:",x)
+x = 20
+my_func()
+print("Value outside function:",x)
+Input:-
+def square(num ):
+ return num**2
+object_ = square(9)
+print( "The square of the number is: ", object_ )
