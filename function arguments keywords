@@ -1,0 +1,25 @@
+Input:-
+def addNum(num1, num2):
+print(num1 + num2)
+addNum(2, 4)
+Input:-
+def multiplyNum(num1):
+return num1 * 8
+result = multiplyNum(8)
+print(result)
+Input:-
+def sum():
+n1=5 n2=6
+n3=n1+n2
+return n3
+print(sum())
+Input:-
+def
+Rectangle(l,b):
+ area = l*b
+return area def
+main():
+ length = int(input("Enter integer value of length: "))
+breadth = int(input("Enter integer value of breadth: "))
+areaOfRectangle = Rectangle(length, breadth)
+print("Area of the rectangle is: ",areaOfRectangle) main()
